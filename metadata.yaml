@@ -1,0 +1,33 @@
+_repo: The-crooked-cross_73254
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dutton, Charles J. (Charles Judson)
+    alias: Dutton, Charles Judson
+    birthdate: 1888
+    deathdate: 1964
+    gutenberg_agent_id: '57000'
+    url: http://www.gutenberg.org/2009/agents/57000
+description: ''
+gutenberg_issued: '2024-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73254'
+language: en
+pgterms:marc904: https://archive.org/details/bwb_O8-CMX-389
+pgterms:marc905: 20240323163159dutton
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aNew York, NY :$bDodd, Mead & Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcsh 'Bartley, John (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The crooked cross
+url: http://www.gutenberg.org/ebooks/73254
